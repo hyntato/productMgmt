@@ -1,0 +1,6 @@
+framework module Pods_ch15_HomePwnerWithTableView_hw5 {
+  umbrella header "Pods-ch15-HomePwnerWithTableView-hw5-umbrella.h"
+
+  export *
+  module * { export * }
+}
