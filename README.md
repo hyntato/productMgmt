@@ -1,4 +1,4 @@
-# Homepwner With TableView
+# ProductMgmt With TableView
 
 Item과 Image를 Cloud Firestore에 저장하여 관리하고 실시간으로 데이터를 삽입, 삭제, 수정, 검색할 수 있는 앱입니다.
 
